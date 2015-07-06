@@ -1,2 +1,3 @@
 # applecool.github.io
-My github website.
+My portfolio is going to be here.
+Work in Progress! 
