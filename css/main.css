@@ -1,10 +1,8 @@
-
-.main_heading{
-    font-size: 40px;
+.main_heading {
+  font-size: 40px;
 }
-
-.warn_heading{
-    font-size: 20px;
-    text-align: center;
-    font-weight: bolder;
+.warn_heading {
+  font-size: 20px;
+  text-align: center;
+  font-weight: bolder;
 }
