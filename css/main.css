@@ -16,4 +16,14 @@
   border-radius: 50%;
   max-width: 50%;
   max-height: 30%;
+  margin-top: 50px;
+}
+
+ a{
+  font-size: 100px;
+  color:#00AFF0;
+  text-decoration: none;
+}
+h1{
+  text-align: center;
 }
