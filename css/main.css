@@ -1,8 +1,19 @@
 .main_heading {
   font-size: 40px;
+  text-align: center;
 }
 .warn_heading {
   font-size: 20px;
   text-align: center;
   font-weight: bolder;
+}
+
+.profile{
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  display: block;
+  border-radius: 50%;
+  max-width: 50%;
+  max-height: 30%;
 }
