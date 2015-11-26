@@ -19,11 +19,15 @@
   margin-top: 50px;
 }
 
- a{
+a{
   font-size: 100px;
   color:#00AFF0;
   text-decoration: none;
 }
 h1{
   text-align: center;
+}
+
+a:hover{
+  color: #FC3D39;
 }
