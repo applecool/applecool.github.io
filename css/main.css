@@ -28,3 +28,8 @@ h1 {
 a:hover {
   color: #FC3D39;
 }
+
+.social_links{
+  margin: 0 auto 0 auto;
+  text-align: center;
+}
