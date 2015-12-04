@@ -10,6 +10,22 @@ li{
   text-align: center;
   font-weight: bold;
   font-size: 20px;
+  letter-spacing: 2px;
+  padding: 5px;
+  /*color: #00AFF0;*/
+}
+/*
+li:hover{
+  color: #FC3D39;
+}*/
+
+.head_items{
+  color: #00AFF0;
+  text-decoration: none;
+}
+
+.head_items:hover{
+  color: #FC3D39;
 }
 .main_heading {
   font-size: 40px;
@@ -32,7 +48,7 @@ li{
   max-height: 30%;*/
   margin-top: 50px;
 }
-a {
+.handle{
   font-size: 100px;
   color: #00AFF0;
   text-decoration: none;
@@ -40,7 +56,7 @@ a {
 h1 {
   text-align: center;
 }
-a:hover {
+.handle:hover {
   color: #FC3D39;
 }
 .social_links {
