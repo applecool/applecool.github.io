@@ -12,12 +12,7 @@ li{
   font-size: 20px;
   letter-spacing: 2px;
   padding: 5px;
-  /*color: #00AFF0;*/
 }
-/*
-li:hover{
-  color: #FC3D39;
-}*/
 
 .head_items{
   color: #00AFF0;
@@ -44,8 +39,6 @@ li:hover{
   border-radius: 50%;
   width: 200px;
   height: 200px;
-  /*max-width: 50%;
-  max-height: 30%;*/
   margin-top: 50px;
 }
 .handle{
