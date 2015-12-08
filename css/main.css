@@ -1,10 +1,9 @@
-header{
+header {
   margin-left: auto;
   margin-right: auto;
   text-align: center;
 }
-
-li{
+li {
   display: inline;
   text-transform: uppercase;
   text-align: center;
@@ -13,13 +12,11 @@ li{
   letter-spacing: 2px;
   padding: 5px;
 }
-
-.head_items{
+.head_items {
   color: #00AFF0;
   text-decoration: none;
 }
-
-.head_items:hover{
+.head_items:hover {
   color: #FC3D39;
 }
 .main_heading {
@@ -41,7 +38,7 @@ li{
   height: 200px;
   margin-top: 50px;
 }
-.handle{
+.handle {
   font-size: 100px;
   color: #00AFF0;
   text-decoration: none;
@@ -56,8 +53,7 @@ h1 {
   margin: 0 auto 0 auto;
   text-align: center;
 }
-
-a{
+a {
   text-decoration: none;
 }
 .web_presence {
