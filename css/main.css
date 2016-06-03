@@ -51,6 +51,12 @@ li {
    filter: grayscale(100%);
    filter: gray; /* IE 6-9 */
 }
+.profile:hover{
+    -webkit-filter: none;
+    -moz-filter: none;
+    -ms-filter: none;
+    filter: none;
+}
 h1 {
   text-align: center;
 }
